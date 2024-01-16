@@ -1,0 +1,4 @@
+Model: Random Forest
+Model_Parameters: '{''n_estimators'': 143, ''max_depth'': 10, ''min_samples_split'':
+  3, ''min_samples_leaf'': 5}'
+R2_Score: '0.9113094863067811'
